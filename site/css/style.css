@@ -211,3 +211,45 @@ section {
     width: 100%;
   }
 }
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #dddddd;
+}
+
+#header-nav {
+  border: 0;
+  background-color: #E83845;
+  color: #dddddd;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #51122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #dddddd;
+}
+
+.nav-brand {
+  color: #dddddd;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+  font-size: 1.2em;
+}
